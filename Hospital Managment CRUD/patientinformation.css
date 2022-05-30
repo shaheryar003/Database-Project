@@ -1,0 +1,124 @@
+.patientinformation-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #bdc3c7 0%, #2c3e50 100%);
+}
+.patientinformation-form {
+  top: 58px;
+  left: 0px;
+  width: 100%;
+  height: 697px;
+  position: absolute;
+  background-image: linear-gradient(to right, #bdc3c7 0%, #2c3e50 100%);
+}
+.patientinformation-select {
+  top: 164px;
+  left: 644px;
+  width: 248px;
+  height: 48px;
+  position: absolute;
+  box-shadow: 5px 5px 10px 0px #da2424;
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: 0px;
+}
+.patientinformation-text {
+  top: 179px;
+  left: 233px;
+  width: var(--dl-size-size-large);
+  position: absolute;
+  font-size: 25px;
+}
+.patientinformation-text1 {
+  top: 333px;
+  left: 226px;
+  position: absolute;
+  font-size: 25px;
+}
+.patientinformation-textinput {
+  top: 321px;
+  left: 642px;
+  position: absolute;
+}
+.patientinformation-button {
+  top: 547px;
+  left: 542px;
+  width: 106px;
+  height: 43px;
+  position: absolute;
+}
+.patientinformation-container1 {
+  width: 100%;
+  height: 59px;
+  display: flex;
+  align-items: flex-start;
+}
+.patientinformation-button1 {
+  width: 81px;
+  height: 51px;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.patientinformation-navlink {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-100);
+}
+.patientinformation-navlink01 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.patientinformation-navlink02 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.patientinformation-navlink03 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.patientinformation-navlink04 {
+  width: 116px;
+  height: 51px;
+  text-decoration: none;
+}
+.patientinformation-navlink05 {
+  width: 68px;
+  height: 51px;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-white);
+}
+.patientinformation-navlink06 {
+  width: 116px;
+  height: 51px;
+  text-decoration: none;
+}
+.patientinformation-navlink07 {
+  width: 75px;
+  height: 51px;
+  padding-left: 0px;
+  text-decoration: none;
+}
+.patientinformation-navlink08 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.patientinformation-navlink09 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.patientinformation-navlink10 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}

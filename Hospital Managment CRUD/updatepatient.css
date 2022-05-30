@@ -1,0 +1,206 @@
+.updatepatient-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  min-height: 100vh;
+  align-items: center;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(to right, #bdc3c7 0%, #2c3e50 100%);
+}
+.updatepatient-container1 {
+  top: 4px;
+  right: 0px;
+  width: 100%;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.updatepatient-navlink {
+  width: 81px;
+  height: 51px;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-100);
+}
+.updatepatient-navlink01 {
+  width: 112px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink02 {
+  width: 79px;
+  height: 51px;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-white);
+}
+.updatepatient-navlink03 {
+  width: 81px;
+  height: 51px;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.updatepatient-navlink04 {
+  width: 114px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink05 {
+  width: 116px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink06 {
+  width: 68px;
+  height: 51px;
+  text-decoration: none;
+  background-color: var(--dl-color-gray-white);
+}
+.updatepatient-navlink07 {
+  width: 109px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink08 {
+  width: 75px;
+  height: 51px;
+  padding-left: 0px;
+  text-decoration: none;
+}
+.updatepatient-navlink09 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink10 {
+  width: 104px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink11 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-navlink12 {
+  width: 148px;
+  height: 51px;
+  text-decoration: none;
+}
+.updatepatient-form {
+  width: 1187px;
+  height: 784px;
+}
+.updatepatient-input {
+  top: 115px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-textinput {
+  top: 262px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-textinput1 {
+  top: 183px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  padding: 0px;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-textinput2 {
+  top: 463px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-textinput3 {
+  top: 396px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-textinput4 {
+  top: 330px;
+  left: 0px;
+  right: 0px;
+  width: 455px;
+  height: 51px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+}
+.updatepatient-heading {
+  top: 190px;
+  left: 0px;
+  position: absolute;
+  font-size: 28px;
+  padding-left: var(--dl-space-space-sixunits);
+}
+.updatepatient-heading1 {
+  top: 34px;
+  left: -2px;
+  margin: var(--dl-space-space-sixunits);
+  position: absolute;
+  font-size: 28px;
+}
+.updatepatient-heading2 {
+  top: 267px;
+  left: 0px;
+  position: absolute;
+  font-size: 28px;
+  padding-left: var(--dl-space-space-sixunits);
+}
+.updatepatient-heading3 {
+  top: 332px;
+  left: 0px;
+  position: absolute;
+  font-size: 28px;
+  padding-left: var(--dl-space-space-sixunits);
+}
+.updatepatient-heading4 {
+  top: 402px;
+  left: 0px;
+  position: absolute;
+  font-size: 28px;
+  padding-left: var(--dl-space-space-sixunits);
+}
+.updatepatient-heading5 {
+  top: 474px;
+  left: 0px;
+  position: absolute;
+  font-size: 28px;
+  padding-left: var(--dl-space-space-sixunits);
+}
+.updatepatient-button {
+  top: 556px;
+  left: 529px;
+  width: 134px;
+  height: 43px;
+  position: absolute;
+}
